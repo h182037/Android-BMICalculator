@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">BMIKalkulator</string>
+    <string name="weight">Vekt(kg)</string>
+    <string name="height">Høyde(m)</string>
+    <string name="low">Undervekt</string>
+    <string name="good">Normal</string>
+    <string name="over">Overvekt</string>
+    <string name="high">Alvorlig fedme</string>
+    <string name="calculate">Regn ut</string>
+    <string name="error1">Mangler verdi, vennligst forsøk igjen.</string>
+</resources>

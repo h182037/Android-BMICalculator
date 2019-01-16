@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">BMICalculator</string>
+    <string name="weight">Weight(kg)</string>
+    <string name="height">Height(m)</string>
+    <string name="low">Underweight</string>
+    <string name="good">Normal</string>
+    <string name="over">Slightly Overweight</string>
+    <string name="high">Obese</string>
+    <string name="calculate">Calculate</string>
+    <string name="error1">Missing values, please try again.</string>
+</resources>
